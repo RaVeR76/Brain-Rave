@@ -63,3 +63,15 @@ I want this website to become mildly addictive were the user wants to come back 
 * As a user, I want to enjoy a aesthetically pleasing website which is easy to navigate around
 * As a user, I want to test my brain by playing some awesome yet tricky interactive games
 * As a user, I want to feel that I have a friend on the other side of the screen .... awwww !
+
+
+## Site Owner Goals
+
+
+* As a site owner, I want to make sure site visitors smile & laugh
+* As a site owner, I want them to connect and love the character that is DJ Snooze-A-Lot .... AGAIN !
+* As a site owner, I want visitors to have fun playing some unique fun games
+* As a site owner, I want people to enjoy some top tunes from the 90s, with possible youtube playlist genres added
+* As a site owner, I want 
+* As a site owner, I want set up a contact form for users to declare any bugs or issues with the website for me to rectify & ideas
+* As a site owner, I want people to enjoy themselves that much that they want to come back for more
