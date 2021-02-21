@@ -98,3 +98,77 @@ I want this website to become mildly addictive were the user wants to come back 
 * Good working links (pics or videos) will be provided for any additional features I might want to add, like music playlists
 * Stimulation of the human nation
 * Some crazy fun .... for sure !
+
+
+## Design Choices
+
+
+
+### Fonts
+
+
+
+### Icons
+
+
+
+
+### Colours
+
+
+
+
+# Wireframes
+---
+
+
+
+### What didn't make the cut
+
+
+
+# Features
+---
+
+
+# Technologies Utilised
+---
+### Languages
+
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS) 
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) 
+
+### Tools and Libraries
+
+- [Git](https://en.wikipedia.org/wiki/Git) 
+- [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+
+# Testing
+---
+
+
+# Bugs
+---
+ 
+  
+### The Development Journey
+
+
+
+### The Validation & Testing Journey
+
+
+
+### The Mentor Code Review Journey
+
+
+# Deployment
+---
+
+
+
+# Credits
+---
