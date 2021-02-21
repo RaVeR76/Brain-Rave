@@ -75,3 +75,26 @@ I want this website to become mildly addictive were the user wants to come back 
 * As a site owner, I want 
 * As a site owner, I want set up a contact form for users to declare any bugs or issues with the website for me to rectify & ideas
 * As a site owner, I want people to enjoy themselves that much that they want to come back for more
+
+
+## User Requirements and Expectations
+
+### Requirements 
+
+
+* Scrolling website or single page website (with games menu) .... haven't decided yet
+* Fun looking website which is aesthetically pleasing also
+* 4 to 6 sections with a few fun games for users to interact with
+* As much funny stuff as possible but in a kind of professional manner (if possible)
+* Maybe add some rave tunes to listen to whilst playing the games
+* Add some sort of timer which after a set time, offers clues or help (if possible)
+* To have a contact form for bugs & ideas
+
+### Expectations
+
+* The user will smile as a bare minimum but laugh if I consider my wee website a success
+* They will enjoy the website layout and navigate freely with no issues
+* Good working games (but I do foresee some hidden bugs tbh, which may be undetected unless you play the game over & over & over), hence the contact form
+* Good working links (pics or videos) will be provided for any additional features I might want to add, like music playlists
+* Stimulation of the human nation
+* Some crazy fun .... for sure !
